@@ -1,0 +1,14 @@
+.logo {
+  height: 90px;
+}
+.navbar-expand{
+  background-color: rgba(227, 227, 227, 0.452);
+  height: 90px;
+}
+
+.nav-link {
+  border-radius: 5px;
+ background-color: rgba(130, 130, 130, 0.1);
+ margin-right: 15px;
+
+}
